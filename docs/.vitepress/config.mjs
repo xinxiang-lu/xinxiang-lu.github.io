@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "我的博客",
-  description: "记录一切",
+  title: "Xinxiang Lu",
+  description: "Xinxiang Lu's personal homepage at Soochow University. Contact: 2327406067@stu.suda.edu.cn",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/l2965106733' }
     ]
   }
 })
