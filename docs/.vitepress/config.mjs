@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/l2965106733' }
+      { icon: 'github', link: 'https://github.com/xinxiang-lu' }
     ]
   }
 })
